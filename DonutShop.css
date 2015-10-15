@@ -1,0 +1,81 @@
+* {
+	background-color: #FFFFFF;
+}
+
+#page {
+	font-family: tahoma, sans-serif;
+	color: #BA7F09
+}
+h1 {
+	font-family: helvetica;
+	font-size: 150%;
+}
+p {
+	color: black;
+}
+
+h2 {
+	font-size: 110%;
+}
+
+input[type='submit'], a.add, button, a.SeeMore {
+	background-color: #D1D1D1; 
+	color: #BA7F09;
+	border-radius: 8px;
+	border: none;
+	padding: 5px;
+	margin-top: 10px;
+	font-family: helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase; 
+  	letter-spacing: 0; 
+  	position: relative;
+  	top: -5px;
+  	left: 10px;  
+}
+
+td a {
+	font-size: 12px;
+}
+
+a.SeeMore {
+	font-size: 12px; 
+  	padding: 5px; 
+  	letter-spacing: 0; 
+  	position: relative;
+  	top: -5px;
+  	left: 10px;
+  }
+
+.hot {
+  background-color: #d7666b;
+  color: #fff;
+  text-shadow: 2px 2px 1px #914141;
+  border-top: 1px solid #e99295;
+  border-bottom: 1px solid #914141;
+}
+
+.cool {
+  background-color: #6cc0ac;
+  color: #fff;
+  text-shadow: 2px 2px 1px #3b6a5e;
+  border-top: 1px solid #7ee0c9;
+  border-bottom: 1px solid #3b6a5e;}
+
+ .tbutton {
+ 	background-color: #D1D1D1; 
+	color: #BA7F09;
+	border-radius: 8px;
+	border: none;
+	padding: 5px;
+	margin-top: 10px;
+	font-family: helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase; 
+  	letter-spacing: 0; 
+  	position: relative;
+  	top: -5px;
+  	left: 10px;  
+ }
