@@ -8,7 +8,7 @@ function DonutShop (loc, hoursOfOp, minCustomersPerHr, maxCustomersPerHr, AvgDon
 	this.AvgDonutsPerCustomer = AvgDonutsPerCustomer;
 	var test = this;
 
-//Method to return random customer count within parameters of each shop//
+//Method to return random customer count within parameters of each shop
 
 	test.CustCount = function() {
 	var custy = Math.floor((randomnumber) * (this.maxCustomersPerHr - this.minCustomersPerHr) + 1) + this.minCustomersPerHr; return custy;
